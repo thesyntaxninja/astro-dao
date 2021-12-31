@@ -4,6 +4,7 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('../src/assets/space.png');
   background-color: #7700ee;
   color: #fff;
   overflow-x: hidden;
@@ -116,7 +117,7 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: #7700ee;
   color: #fff;
   border: none;
   font-weight: bold;
