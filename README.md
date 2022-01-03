@@ -8,4 +8,4 @@ To get started with this course, clone this repo and follow these commands:
 3. Start coding!
 
 ### **Questions?**
-Have some questions, email pdesmay@gmail.com
+Have some questions, email pdesmay@gmail.com for assistance.
