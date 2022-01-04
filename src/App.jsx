@@ -213,7 +213,7 @@ const App = () => {
                                 return (
                                     <tr key={member.address}>
                                         <td>{shortenAddress(member.address)}</td>
-                                        
+                                        <td>{member.tokenAmount}</td>
                                     </tr>
                                 );
                             })}
