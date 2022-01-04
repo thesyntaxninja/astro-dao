@@ -276,7 +276,7 @@ const App = () => {
                                             })
                                         );
                                         try {
-                                            // if any of the propsals are ready to be executed we'll need to execute them
+                                            // if any of the proposals are ready to be executed we'll need to execute them
                                             // a proposal is ready to be executed if it is in state 4
                                             await Promise.all(
                                                 votes.map(async (vote) => {
