@@ -312,6 +312,7 @@ const App = () => {
                             {proposals.map((proposal, index) => (
                                 <div key={proposal.proposalId} className="card">
                                     <h5>{proposal.description}</h5>
+                                    <p>Proposal State : {proposal.state}</p>
                                     <div>
                                         {proposal.votes.map((vote) => (
                                             <div key={vote.type}>
